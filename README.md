@@ -1,5 +1,10 @@
 # Night Shift (Desaturated) Theme
 
+## Build
+```
+vsce package
+```
+
 ## Introduction
 
 This theme's main goal is to provide a dark, readable & clean experience into your favorite code editor.
